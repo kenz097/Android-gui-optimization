@@ -5,3 +5,4 @@ Per poter ricreare le interfacce grafiche ottimizzate per dispositivi Android è
 - Genetic_algorithm_NSGAII rappresenta l'architettura dell'algoritmo genetico multi-obiettivo per generare le soluzioni per le nuove interfacce, dove per soluzioni si intende la composizione dei nuovi colori.
 - Building_Interface serve per poter ricostruire le interfacce grafiche con le nuove soluzioni e creare i file .csv per analizzare i risultati ottenuti.
 
+![Alt Text](https://github.com/kenz097/Android-gui-optimization/blob/main/old%20vs%20optimized.png)
