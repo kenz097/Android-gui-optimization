@@ -1,4 +1,4 @@
-# Android-gui-optimization
+# Consumo Energetico ed Accessiblità di Dispositivi Android: Un Approccio per l'Ottimizzazione di Interfacce Grafiche
 Tesi Magistrale Universitaria di Vincenzo De Martino per ricostruire interfacce grafiche ottimizzate per il consumo energetico e al contempo gestire il contrasto tra le componenti per problemi legati all’accessibilità. Il progetto è stato svolto usando Python 3.8 e il framework Pymoo 0.6 e un'esempio di risultato può essere visto sotto.
 Per poter ricreare le interfacce grafiche ottimizzate per dispositivi Android è necessario eseguire 3 file:
 - BOCP_BOCC_Algorithm per l'estrazione dei colori dei pixel e delle componenti all'interno delle applicazioni Android, questa fase è successiva all'acquisizione dei file .xml e .png tramite UiViewAutomator
